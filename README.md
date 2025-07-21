@@ -126,16 +126,9 @@ int main(void)
 - **No memory leaks**: Proper memory management throughout all implementations
 - **Edge case handling**: Functions must handle empty strings, NULL pointers, and boundary conditions
 
-## Historical Context
-
-The project includes an interesting foreword about the history of Rock-Paper-Scissors, tracing its origins from ancient China through its evolution in Japan and eventual spread to the Western world. This cultural context emphasizes the global nature of problem-solving patterns - much like how string manipulation techniques are fundamental across all programming languages and cultures.
-
----
-
 *This project was completed as part of the 42 School C Piscine, demonstrating proficiency in low-level C programming, algorithm implementation, and systems-level understanding of string operations.*
 
 ---
-
 
 ## License
 
